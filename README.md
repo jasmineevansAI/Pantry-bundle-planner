@@ -93,4 +93,6 @@ PROVIDED inventory list
 20 juice boxes
 After entering this prompt I was faced with a few bundles, but they didn't seem to have much in them they seemed like they wouldn't fill a hungry college student up. The bundles were practical just scarce. 
 [pantry bundle planner.pdf](https://github.com/user-attachments/files/32069225/pantry.bundle.planner.pdf)
+<img width="515" height="282" alt="image" src="https://github.com/user-attachments/assets/40e617fa-e369-47c4-a9c2-f320a8b014ca" />
+
 
